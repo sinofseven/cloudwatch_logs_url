@@ -3,5 +3,19 @@ name = "cloudwatch_logs_url"
 version = "0.1.0"
 edition = "2021"
 
+license = "MIT"
+license-file = "LICENSE"
+
+keywords = ["AWS", "CloudWatchLogs", "URL"]
+
+homepage = "https://github.com/sinofseven/cloudwatch_logs_url"
+repository = "https://github.com/sinofseven/cloudwatch_logs_url"
+
+description = "generate CloudWatch Logs URL"
+
+readme = "README.md"
+
+documentation = "https://docs.rs/cloudwatch_logs_url"
+
 [dependencies]
 urlencoding = "2"
