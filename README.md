@@ -41,10 +41,6 @@ See the Struct [PropsCreateUrlLogEvents][PropsCreateUrlLogEvents] documentation 
 
 [PropsCreateUrlLogEvents]: https://docs.rs/cloudwatch_logs_url/latest/cloudwatch_logs_url/struct.PropsCreateUrlLogEvents.html
 
-## Contribute
-
-PRs accepted.
-
 ## License
 
 MIT © sinofseven
